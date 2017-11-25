@@ -10,4 +10,8 @@ Så det kommer inte vara med i commiten.
 
 Däremot i nästa commit. Men så vill jag bara skicka in föregående commit... 
 
+Nu ändrar lite här som då INTE ligger i staged förrän jag gjort add
+
+hejhejhej
+
 "
